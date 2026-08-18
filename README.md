@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <code>leading teams</code> · <code>researching</code> · <code>building useful for me things</code>
+    <code>leading teams</code> · <code>researching</code> · <code>building</code>
   </p>
 
   <p>
