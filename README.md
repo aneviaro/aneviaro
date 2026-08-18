@@ -25,11 +25,9 @@
 
 ### About me
 
-I'm an Engineering Manager with **7+ years in full-stack development** and **3+ years leading engineering teams**. Previously, I was a Senior Software Engineering Manager at [Orca Security](https://orca.security).
+I'm an engineer with **7+ years in full-stack development** and **3+ years leading engineering teams**. Previously, I was a Senior Software Engineering Manager at [Orca Security](https://orca.security).
 
 My work sits where engineering leadership, cloud architecture, and security meet. I build and scale data-intensive systems across AWS, GCP, and Azure, and try to create the kind of engineering culture where people can thrive and innovate freely.
-
-### Two operating modes
 
 <table>
 <tr>
@@ -88,14 +86,4 @@ $ current_mode
 Exploring AI agentic security
 ```
 
-### GitHub at a glance
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneviaro&theme=transparent" alt="Aliaksandra's GitHub activity" />
-</div>
-
 ---
-
-<div align="center">
-  <sub>Management keeps me grounded. Security and engineering keeps me curious.</sub>
-</div>
